@@ -1,28 +1,40 @@
-name: Soaring Memories
 favicon: null
-layout_spectrum: 0.6624235576018691
-typography_spectrum: 0.4719719688873738
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Soaring Memories
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1437756405211985
+  brandStrength: 0.4852873312775046
+  rhythmicContrast: 0.2363195060752332
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.48528733127750456
   lightness: 0.5665841198060662
-  saturation: 0.1437756405211985
-  rhythmicContrast: 0.23631950607523322
-purpose: []
+typography_spectrum: 0.2419355
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6624235576018691
+analytics:
+  twitter: null
+  google: null
+  facebook: null
