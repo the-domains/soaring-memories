@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soaring Memories]]></title>
+        <description><![CDATA[Soaring Memories]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Jan 2016 17:19:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined48147f59-955e-4720-a9b6-51261dcc1676/index.html</link>
+            <guid isPermaLink="false">48147f59-955e-4720-a9b6-51261dcc1676</guid>
+            <pubDate>Thu, 07 Jan 2016 17:18:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
